@@ -25,11 +25,16 @@ OK, I am reaching the end.
 - [ ] Table
 
 **So the last thing is table:**
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+
+Parameter | Value
+| --- | --- 
+| Minimum Password Length: | 12 characters 
+| Maximum Password Age:    | 30 Days 
+| Complexity Enabled:      | Yes 
+| Lockout Attempts:        | 5 Bad Attempts in 24 Hours. 
+| Lockout Duration:        | Forever 
+| Password Remembered:     | 10 
+| Minimum Password Age:    | 3 Days 
 
 I can't think of another topic for the table so I directly copy the one in the guide.
 Here's the reference: https://guides.github.com/features/mastering-markdown/
