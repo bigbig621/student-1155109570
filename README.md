@@ -25,10 +25,11 @@ OK, I am reaching the end.
 - [ ] Table
 
 **So the last thing is table:**
-|First Header | Second Header|
-|------------ | -------------|
-|Content from cell 1 | Content from cell 2|
-|Content in the first column | Content in the second column|
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 I can't think of another topic for the table so I directly copy the one in the guide.
 Here's the reference: https://guides.github.com/features/mastering-markdown/
