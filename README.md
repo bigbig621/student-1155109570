@@ -26,15 +26,10 @@ OK, I am reaching the end.
 
 **So the last thing is table:**
 
-Parameter | Value
-| --- | --- 
-| Minimum Password Length: | 12 characters 
-| Maximum Password Age:    | 30 Days 
-| Complexity Enabled:      | Yes 
-| Lockout Attempts:        | 5 Bad Attempts in 24 Hours. 
-| Lockout Duration:        | Forever 
-| Password Remembered:     | 10 
-| Minimum Password Age:    | 3 Days 
+First Header | Second Header
+| ------------ | ------------ 
+| Content from cell 1 | Content from cell 2
+| Content in the first column  | Content in the second column
 
 I can't think of another topic for the table so I directly copy the one in the guide.
 Here's the reference: https://guides.github.com/features/mastering-markdown/
