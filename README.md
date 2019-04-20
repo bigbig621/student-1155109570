@@ -23,3 +23,14 @@ OK, I am reaching the end.
 - [x] List (any kind)
 - [x] Task List
 - [ ] Table
+
+**So the last thing is table:**
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+I can't think of another topic for the table so I directly copy the one in the guide.
+Here's the reference: https://guides.github.com/features/mastering-markdown/
+
+If you have read until here, I am sorry that you have wasted your precious time. Bye!
